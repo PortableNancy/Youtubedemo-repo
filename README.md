@@ -1,3 +1,3 @@
-# yOUTUBE Demo
+# YOUTUBE Demo
 
-Some description
+Some description.
